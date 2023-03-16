@@ -1,0 +1,19 @@
+.authentication-container {
+  display: flex;
+  width: 100%;
+  max-width: 900px;
+  justify-content: space-between;
+  margin: 300px auto;
+  padding: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .authentication-container {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    justify-content: space-between;
+    margin: 200px auto;
+    overflow: hidden;
+  }
+}

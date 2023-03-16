@@ -1,0 +1,27 @@
+.sign-in-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+
+  h2 {
+    margin: 10px 0;
+  }
+
+  .buttons-container {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  .sign-in-container {
+    margin-bottom: 50px;
+
+    .buttons-container {
+      display: flex;
+      justify-content: flex-start;
+    }
+  
+  }
+}

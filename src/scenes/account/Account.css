@@ -1,0 +1,11 @@
+.account-container{
+    height: auto;
+    margin-top: 200px;
+}
+
+.account-row{
+    max-width: 600px;
+    text-align: center;
+    height: 20px;
+    margin: auto;
+}

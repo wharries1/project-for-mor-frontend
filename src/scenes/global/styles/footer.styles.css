@@ -1,0 +1,78 @@
+.ws-footer{	
+	color: #fff;
+	padding: 70px 0;    
+    background-color: #3D3D3D;
+	width: 100%;
+	position: absolute;
+}
+.ws-footer a{	
+	color: #999;
+	-ms-transition: .3s ease-in-out;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.ws-footer a:hover{	
+	color: #41424B;		
+}
+.ws-footer h3{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 600;	
+	font-size: 14px;	
+}
+.ws-footer ul{
+	letter-spacing: 1px;
+	margin: 0;
+	list-style: none;
+	padding-left: 0;	
+}
+.ws-footer li{
+	font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+	margin-top: 12px;
+}
+.ws-footer-separator{
+	background-color: #41424B;
+    height: 1px;
+    width: 15px;
+    display: block;
+    margin: 15px 0 20px 0;
+}
+.ws-footer-bar ul{
+	letter-spacing: 1px;
+	margin: 0;
+	list-style: none;
+	padding-left: 0;	
+}
+.ws-footer-bar{	
+	padding: 10px 0;
+	background-color: #353535;	
+}
+.ws-footer-bar p{
+	color: #41424B;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+ul.ws-footer-social i{
+	margin-right: 5px;
+}
+.ws-footer-about{
+	padding-right: 60px;
+}
+.ws-footer-about p{
+	color: #999;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+ul.ws-footer-payments li{
+	color: #999;
+	font-size: 16px;
+	margin-left: 15px;
+	margin-top: 3px;
+	float: left;
+}
